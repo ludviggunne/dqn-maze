@@ -4,4 +4,4 @@ bin/
 .project
 .classpath
 py4j0.10.9.7.jar
-.DS_Store
+**/.DS_Store
