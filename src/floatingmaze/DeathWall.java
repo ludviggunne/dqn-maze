@@ -1,7 +1,7 @@
 package floatingmaze;
 
 /**
- * DeathWall --- Represents a wall that immediately kills the player and restarts the game upon impact
+ * DeathWall --- Represents a wall that immediately kills the player and restarts the game upon impact.
  */
 public class DeathWall {
 	public int x1, x2, y1, y2;
