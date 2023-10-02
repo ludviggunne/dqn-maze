@@ -1,0 +1,7 @@
+bin/
+.ipynb_checkpoints/
+.settings/
+.project
+.classpath
+py4j0.10.9.7.jar
+.DS_Store
