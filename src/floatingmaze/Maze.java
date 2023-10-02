@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 import py4j.GatewayServer;
 
 /**
- * Maze --- The base class for launching the game
+ * Maze --- The base class for launching the game.
  */
 public class Maze {
 	public JFrame app;
