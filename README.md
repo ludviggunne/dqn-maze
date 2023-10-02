@@ -1,15 +1,15 @@
 # Deep Q-learning Maze
----
+
 By Max Brynolf (max.brynolf@hotmail.com)
 
 Repository link: https://github.com/MaxBrynolf/DQNMaze
 
 ## Overview
----
+
 An environment in which DQN can be used to train an agent to progress through a maze game with floating physics, by controlling the acceleration in different directions. The environment can easily be altered, as well as any hyperparameters used during training. 
 
 ## Installation
----
+
 Requirements:
 1. Java IDE
 2. Python and Jupyter Lab/Jupyter Notebook
@@ -22,7 +22,7 @@ Installation:
 
 
 ## Usage
----
+
 #### Java
 
 To launch the environment, run the file `Maze.java`. The following parameter, given in `Maze.main`, decides whether to launch the environment in training mode or not:
@@ -40,7 +40,7 @@ The world can be designed in the `Maze.startWindow` method. For example, to add 
 The file "Deep Q-learning.ipynb" contains instructions on how to train the model. First make sure to start the Java application with training mode set to `RL`, as described above. Then launch the different code cells in the notebook to train the model, according to the instructions.
 
 ## Examples
----
+
 #### Maze With Mixed Types of Walls
 
 A maze-like environment was created using the following world:
